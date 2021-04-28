@@ -20,7 +20,7 @@ Options:
 ### Navigator 
 Selects where the navigator is inserted in the TR. Note that options may not be visible if there is not sufficient time in the current protocol for a navigator to be inserted. For example, if the TI is too short, then th navigator cannot be inserted "Before Readout".
 
-*In vNavT2SPACE curently only "After Readout" is supported*
+*In vNavT2SPACE currently only "After Readout" is supported*
 
 Options:
 
