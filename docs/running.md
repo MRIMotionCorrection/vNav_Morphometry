@@ -7,7 +7,7 @@ Unlike previous versions of the vNav sequences, the navigator and "parent" (*e.g
 
 !["Special Card"](running/special_card.png)
 
-### Averaging
+### Averaging (only in vNavMEMPRAGE)
 Selects how the multiple echoes are combined.
 
 Options:
@@ -19,6 +19,8 @@ Options:
 
 ### Navigator 
 Selects where the navigator is inserted in the TR. Note that options may not be visible if there is not sufficient time in the current protocol for a navigator to be inserted. For example, if the TI is too short, then th navigator cannot be inserted "Before Readout".
+
+*In vNavT2SPACE curently only "After Readout" is supported*
 
 Options:
 

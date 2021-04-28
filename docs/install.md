@@ -4,6 +4,8 @@ To `C:\MedCom\MriCustomer\seq\`:
 
 * `tfl_multiecho_vnav_reacq_mdt.dll`
 * `libtfl_multiecho_vnav_reacq_mdt.so`
+* `a_tse_vfl_vnav_mdt.dll`
+* `liba_tse_vfl_vnav_mdt.so`
 
 
 To `C:\MedCom\MriCustomer\ice\`:
@@ -39,4 +41,4 @@ To `C:\MedCom\MriCustomer\ice\tisdall\vNav\`:
 
 Make empty directory `C:\MedCom\MCIR\Med\SimMeasData\tisdall`.
 
-You can then import an example protocol from `vNav_MEMPRAGE_Example.exar1`.
+You can then import an example protocol from `vNav_Morphometry_Example.exar1`.
