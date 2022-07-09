@@ -1,8 +1,0 @@
-site_name: vNav Morphometry Docs
-theme: readthedocs
-
-nav:
-  - Introduction: index.md
-  - Release Notes: release_notes.md
-  - Installation: install.md
-  - Running the Sequence: running.md
