@@ -1,6 +1,6 @@
-==========
-Requesting
-==========
+========================
+Requesting the Sequences
+========================
 
 Requesting the vNav Morphometry package for the HBCD study (for a discussion of sequence versions, see :doc:`which_version`) is a two-step process. Once both steps are completed, we can share the installation package with you.
 
