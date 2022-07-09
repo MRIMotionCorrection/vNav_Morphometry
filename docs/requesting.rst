@@ -41,7 +41,7 @@ Please fill out all the fields below under “Recipient Institution”. Provide 
 
 #. **Sign a Material Transfer Agreement with the University of Pennsylvania** 
 
-Please send your signed C2P to Dylan Tisdall (mtisdall@pennmedicine.upenn.edu) with the following information. This will initiate an material transfer agreement that will be signed by your institution and the University of Pennsylvania.
+Please send your signed C2P to Dylan Tisdall (mtisdall@pennmedicine.upenn.edu) with the following information. This will initiate an material transfer agreement that will be signed by your institution and the University of Pennsylvania. If you do not know the contact information for your contract negotiator (e.g., because your institution requests that you submit our draft contract to be assigned a negotiator) leave this section blank.
 
 
 .. highlight:: none
@@ -50,7 +50,7 @@ Please send your signed C2P to Dylan Tisdall (mtisdall@pennmedicine.upenn.edu) w
 
    To be filled by the requesting institution:
    
-   Recipient Institution: 
+   Requesting Institution: 
    Scientific Contact Name: 
    Scientific Contact Job Title: 
    Scientific Contact Department: 

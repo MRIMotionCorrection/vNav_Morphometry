@@ -18,7 +18,3 @@ You can report bugs and issues using using our `github repository <https://githu
    which_version 
 
 
-Indices and tables
-==================
-
-* :ref:`search`
