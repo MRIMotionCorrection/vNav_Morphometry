@@ -6,7 +6,7 @@
 vNav Morphometry Sequence Documentation
 =======================================
 
-This is the documentation for the vNav Morphometry sequence package distributed by the University of Pennsylvania, and developed jointly by the University of Pennsylvania and Massachusetts General Hospital. There are additional versions of the vNavs mophometry sequences, distributed by Massachusetts General Hospital and Siemens. Please see :doc:`which_version` for more information on the different distributions. 
+This is the documentation for the vNav Morphometry sequence package distributed by the University of Pennsylvania for the HEALthy Brain Child Development study, and developed jointly by the University of Pennsylvania and Massachusetts General Hospital. There are additional versions of the vNavs mophometry sequences, distributed by Massachusetts General Hospital and Siemens. Please see :doc:`which_version` for more information on the different distributions. 
 
 You can report bugs and issues using using our `github repository <https://github.com/MRIMotionCorrection/vNav_Morphometry>`_. However, you can also just email Dylan Tisdall (mtisdall@pennmedicine.upenn.edu) with questions and comments.
 
