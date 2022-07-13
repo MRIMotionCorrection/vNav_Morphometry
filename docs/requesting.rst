@@ -32,7 +32,7 @@ Please fill out all the fields below under “Recipient Institution”. Provide 
    PI Address: 
    PI Telephone: 
    PI email: 
-   Research Topic: (should be "Healthy Brain Child Development study")
+   Research Topic: (should be "HEALthy Brain Child Development study")
    Scanner Type: (should be "Prisma" or "Prisma FIT")
    Serial #: 
    Software Version: (should be "NXVA30") 
